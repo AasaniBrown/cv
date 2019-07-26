@@ -1,3 +1,4 @@
+
 html, body{
   margin:0px;
   padding:0px;
@@ -211,12 +212,15 @@ text-align:justify;
   font-size:20px;
   padding-bottom:5px;
   font-weight:100;
+  text-align:center;
+
 }
 .lastqualification h4{
   font-size:17px;
   padding-bottom:5px;
   font-weight:100;
   color:#999;
+  text-align:center;
 }
 .othqualification{
   padding-left:25px;
@@ -226,12 +230,15 @@ text-align:justify;
   font-size:17px;
   padding-bottom:5px;
   font-weight:100;
+  text-align:center;
+
 }
 .othqualification h4{
   font-size:15px;
   padding-bottom:5px;
   font-weight:100;
   color:#999;
+  text-align:center;
 }
 /*PORTFOLIO*/
 #conteneur-portfolio{
@@ -393,8 +400,8 @@ input[type="submit"]:hover{
   padding-top:50px;
   transition:0.4s;
 }
+
 .footer a:hover{
   color:#DDD;
   text-decoration:none;
   transition:0.4s;
-  
