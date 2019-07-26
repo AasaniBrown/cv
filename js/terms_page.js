@@ -1,22 +1,88 @@
 var DATA = [
   {
-    "name": "Candidate species",
-    "description": "A plant or animal considered for possible addition to the List of Endangered and Threatened Species. These are taxa for which the Fish and Wildlife Service has on file sufficient information on biological vulnerability and threat(s) to support issuance of a proposal to list, but issuance of a proposed rule is currently precluded by higher priority listing actions.",
-    "related": ["CCA", "CCAA", "Endangered Species Act"],
-    "synonyms": []
+    "name": "Computer Science",
+    "description": "Study Of Computers And Computer Systems
+Including How Computers Work & How Computers Are Made
+
+Computer Science Is A Combination Of
+Problem Solving Skills
+Creative Thinking Skills
+Logical Thinking Skills
+Critical Thinking Skills
+Computational Thinking Skills.",
+    "related": ["Mod 1"],
+
+  },
+  {
+    "name": "Technology",
+    "description": "Human knowledge, that involves tools, materials, and systems to solve problems
+Including products and processes used to make our daily lives easier
+Tech is used to accomplish various tasks in our daily lives
+Tech extends our abilities, making (us) the most crucial part of any technological system (Tech Is NOTHING without us)
+Trends that happen in Tech are inspired by youth (make your own ideas and $$$)
+Use Tech to make changes and advance your own community
+.",
+    "related": ["Mod 1."],
+
+  },
+  {
+    "name": "Computers",
+    "description": "Computers are everywhere in our daily lives [phones, game systems etc.]
+Computers are tools that make our lives easier
+Computers help us solve problems, help us stay organized, etc.
+Computers help us accomplish things (freelance, school work, network, etc.)
+Abundance of computers but they are not being utilized to the full potential
+Computer can be used as a toy or it can be utilized to make money
+Computers are great tools for making money (businessmen, freelancer, etc.)
+Computers help us do research to stay on top of our fame
+Very important to take care of our computers [limited in our communities]
+.",
+    "related": ["Mod 1"],
+
+  },
+  {
+    "name": "Digital Divide",
+    "description": "The Digital Divide is the separation between those who have ready access to computers and the Internet, and those who do not.
+The "digital divide" refers to the fact that certain parts of the population have substantially better opportunities to benefit from the new economy than other parts of the population
+Digital Divide  prevents certain categories of people— those from low-income households, senior citizens, single-parent children, the undereducated, minorities, and residents of rural areas — from receiving adequate access to the wide variety of resources offered by computer technology.
+There are 3 types of “digital divide”:
+Economic Divide
+Usability Divide
+Empowerment Divide
+.",
+    "related": ["Mod 1"],
+
+  },
+  {
+    "name": "Problem Solving",
+    "description": "The process of approaching a problem in a systematic manner and creating and expressing a solution such that it can be carried out by a computer. But you don't need to be a computer scientist to think like a computer scientist!.",
+    "related": ["Mod 1"],
+
+  },
+  {
+    "name": "",
+    "description": ".",
+    "related": ["CCA"],
+
+  },
+  {
+    "name": "",
+    "description": ".",
+    "related": ["CCA"],
+
   },
   {
     "acronym": "CCAA",
     "name": "Candidate conservation agreement with assurances",
-    "description": "Voluntary agreements between the U.S. Fish and Wildlife Service and non-Federal property owners. The property owner agrees to manage their lands or waters in ways that remove threats to candidate or proposed species assurances that their conservation efforts will not result in future regulatory obligations in excess of those they agree to at the time they enter into the agreement.",
-    "related": ["CCA"],
-    "synonyms": []
+    "description": ".",
+    "related": [""],
+
   },
   {
     "name": "Best available science",
-    "description": "To assure the quality of the biological, ecological, and other information used in the implementation of the Act, it is the policy of the Services to: (1) evaluate all scientific and other information used to ensure that it is reliable, credible, and represents the best scientific and commercial data available; (2) gather and impartially evaluate biological, ecological, and other information disputing official positions, decisions, and actions proposed or taken by the Services; (3) document their evaluation of comprehensive, technical information regarding the status and habitat requirements for a species throughout its range, whether it supports or does not support a position being proposed as an official agency position; (4) use primary and original sources of information as the basis for recommendations; (5) retain these sources referenced in the official document as part of the administrative record supporting an action; (6) collect, evaluate, and complete all reviews of biological, ecological, and other relevant information within the schedules established by the Act, appropriate regulations, and applicable policies; and (7) require management-level review of documents developed and drafted by Service biologists to verify and assure the quality of the science used to establish official positions, decisions, and actions taken by the Services during their implementation of the Act.",
+    "description": "",
     "related": [],
-    "synonyms": []
+
   }];
 
 $(function() {
